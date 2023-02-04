@@ -16,7 +16,7 @@ API : Application programming interface, we write code to interface with other p
 
 * CDN returns a static page which has HTML, CSS and JS which are executed in browser. The javascript makes the REST call to backend.
 
-  ![](images/three tier architecure.png)
+  ![](images/three-tier-architecure.png)
 
 <p align='center'>*The Three tier architecture*</p>
 
@@ -24,12 +24,12 @@ API : Application programming interface, we write code to interface with other p
 
 * The flow is as shown in the figure below
 
-  ![](images/req-res flow.png)
+  ![](images/req-res-flow.png)
 
 
 * The three tier architecture with backed built with microservice architecture is as follows
 
-  ![](images/microservice arch.png)
+  ![](images/microservice-arch.png)
 
 
 * The difference when requesting is, the front end requests are sent to API Gateway.
